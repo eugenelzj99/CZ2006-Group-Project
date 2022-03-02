@@ -1,12 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Template from './Template';
+//import App from './App';
+//import CalendarTest from './CalendarTest';
+
+
+/* 
+Render 
+App
+CalendarTest
+
+*/
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Template />
   </React.StrictMode>,
   document.getElementById('root')
 );
