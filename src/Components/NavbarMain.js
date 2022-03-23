@@ -106,13 +106,15 @@ class Example extends Component {
           {/* This route is for home component 
           with exact path "/", in component props 
           we passes the imported component*/}
+          <Route exact path="/" component={HomeBody} />
+
           <Route exact path="/Home" component={HomeBody} />
 
-          <Route path="/Discover" component={Discover} />
+          <Route exact path="/Discover" component={Discover} />
   
-          <Route path="/ViewMap" component={ViewMap} />
+          <Route exact path="/ViewMap" component={ViewMap} />
 
-          <Route path="/Planner" component={Planning} />
+          <Route exact path="/Planner" component={Planning} />
         </Switch>
   </Router>
   </div>
