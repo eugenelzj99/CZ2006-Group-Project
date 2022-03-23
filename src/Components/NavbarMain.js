@@ -9,6 +9,17 @@ import { Nav, Navbar,NavDropdown,Container} from 'react-bootstrap';
 import AuthModal from './AuthModal';
 import Planning from './Planning';
 import { connect } from 'react-redux'
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Redirect,
+} from "react-router-dom";
+import HomeBody from './HomeBody';
+import Discover from './Discover';
+import ViewMap from './ViewMap';
+import Planner from './Planning';
+
 class Example extends Component {
   constructor(props) {
     super(props);
@@ -53,10 +64,11 @@ class Example extends Component {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto">
-          <Nav.Link href="#"><h7 className="linkText">Home</h7></Nav.Link>
-          <Nav.Link href="#link"><h7 className="linkText">Discover</h7></Nav.Link>
-          <Nav.Link href="#"><h7 className="linkText">View Map</h7></Nav.Link>
-          <Nav.Link href="#link"><h7 className="linkText">Planner</h7></Nav.Link>
+        <Nav.Link href="/Home"><h7 className="linkText">Home</h7></Nav.Link>
+        <Nav.Link href="/Discover"><h7 className="linkText">Discover</h7></Nav.Link>
+        <Nav.Link href="/ViewMap" ><h7 className="linkText">View Map</h7></Nav.Link>
+        <Nav.Link href="/Planner"><h7 className="linkText">Planner</h7></Nav.Link>
+        
         </Nav>
     
         <Nav className="ml-auto" navbar>
@@ -89,8 +101,25 @@ class Example extends Component {
  
                       
   </Navbar>
+  <Router>
+        <Switch>
+          {/* This route is for home component 
+          with exact path "/", in component props 
+          we passes the imported component*/}
+          <Route exact path="/Home" component={HomeBody} />
+
+          <Route path="/Discover" component={Discover} />
+  
+          <Route path="/ViewMap" component={ViewMap} />
+
+          <Route path="/Planner" component={Planning} />
+        </Switch>
+  </Router>
   </div>
+  
     )
   }
+  
 }
+
 export default Example;

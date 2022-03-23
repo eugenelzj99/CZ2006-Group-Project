@@ -14,6 +14,7 @@ import BoardUser from './Components/board-user.component';
 import BoardModerator from './Components/board-moderator.component';
 import BoardAdmin from './Components/board-admin.component';
 import Dashboard from './Components/Dashboard';
+import ViewMap from './Components/ViewMap'
 import { BrowserRouter, Switch, Route, Link } from 'react-router-dom';   
 
   
@@ -22,7 +23,6 @@ import { BrowserRouter, Switch, Route, Link } from 'react-router-dom';
       <BrowserRouter>
     <div>
    <Example />
-  <HomeBody />
    </div>
    </BrowserRouter>
     );
