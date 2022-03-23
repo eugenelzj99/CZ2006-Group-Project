@@ -1,8 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './App';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Template from './Template';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-social/bootstrap-social.css';
+import 'font-awesome/css/font-awesome.min.css';
+import { BrowserRouter } from "react-router-dom";
 //import App from './App';
 //import CalendarTest from './CalendarTest';
 
@@ -16,7 +21,9 @@ CalendarTest
 
 ReactDOM.render(
   <React.StrictMode>
-    <Template />
+    <BrowserRouter>
+    <App />
+  </BrowserRouter>,
   </React.StrictMode>,
   document.getElementById('root')
 );

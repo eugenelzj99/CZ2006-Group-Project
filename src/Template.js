@@ -4,19 +4,19 @@ import $ from 'jquery';
 function Template() {
   return (
     <div className="Title">
-      	<body class="is-preload">
+      	<body className="is-preload">
 		    <div id="page-wrapper">
 
 			//Header //
 				<div id="header">
 
-					//Logo //
+					/*Logo */
 						<h1><a href="index.html" id="logo">Arcana <em>by HTML5 UP</em></a></h1>
 
 					// Nav //
 						<nav id="nav">
 							<ul>
-								<li class="current"><a href="index.html">Home</a></li>
+								<li className="current"><a href="index.html">Home</a></li>
 								<li>
 									<a href="#">Dropdown</a>
 									<ul>
@@ -49,31 +49,31 @@ function Template() {
 				<section id="banner">
 					<header>
 						<h2>Arcana: <em>A responsive site template freebie by <a href="http://html5up.net">HTML5 UP</a></em></h2>
-						<a href="#" class="button">Learn More</a>
+						<a href="#" className="button">Learn More</a>
 					</header>
 				</section>
 
 			// Highlights //
-				<section class="wrapper style1">
-					<div class="container">
-						<div class="row gtr-200">
-							<section class="col-4 col-12-narrower">
-								<div class="box highlight">
-									<i class="icon solid major fa-paper-plane"></i>
+				<section className="wrapper style1">
+					<div className="container">
+						<div className="row gtr-200">
+							<section className="col-4 col-12-narrower">
+								<div className="box highlight">
+									<i className="icon solid major fa-paper-plane"></i>
 									<h3>This Is Important</h3>
 									<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
 								</div>
 							</section>
-							<section class="col-4 col-12-narrower">
-								<div class="box highlight">
-									<i class="icon solid major fa-pencil-alt"></i>
+							<section className="col-4 col-12-narrower">
+								<div className="box highlight">
+									<i className="icon solid major fa-pencil-alt"></i>
 									<h3>Also Important</h3>
 									<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
 								</div>
 							</section>
-							<section class="col-4 col-12-narrower">
-								<div class="box highlight">
-									<i class="icon solid major fa-wrench"></i>
+							<section className="col-4 col-12-narrower">
+								<div className="box highlight">
+									<i className="icon solid major fa-wrench"></i>
 									<h3>Probably Important</h3>
 									<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
 								</div>
@@ -88,8 +88,8 @@ function Template() {
 			// Footer //
 				<div id="footer">
 					// Copyright //
-						<div class="copyright">
-							<ul class="menu">
+						<div className="copyright">
+							<ul className="menu">
 								<li>&copy; JETSAT Team. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 							</ul>
 						</div>
