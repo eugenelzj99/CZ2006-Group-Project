@@ -1,0 +1,453 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    103.850114362781,
+                    1.330506494872605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Toa Payoh Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>34746.1713</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>29869.1974</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>319392</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Teaching Pool, 1 Wading Pool, 1 Training Pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thursd</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Toa Payoh Lor. 6</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>301</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>098A666C39A46950</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Toa Payoh Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>29869.1973</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>34746.1712</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Toa Payoh Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9522238655317,
+                    1.311728184031033
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Water-Venture (East Coast)</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>32670.07</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>41233.04</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>468961</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.water-venture.org.sg/\">http://www.water-venture.org.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Water-Venture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>East Coast Parkway</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>1390</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>21A17217DAEDC72C</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Water-Venture (East Coast)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>41233.04</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>32670.07</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Water-Venture (East Coast)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8502025124747,
+                    1.354045789685413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Bishan Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>37349.0263</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>29878.9896</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>579778</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Bishan Street 4</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>63EA27062A974DE5</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Bishan Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>29878.9896</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>37349.0263</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Bishan Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.6937689012917,
+                    1.338418064928224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Jurong West Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>35621.4277</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>12469.5954</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>648965</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Sheltered Competition Pool, 1 Teaching Pool, 1 Lazy River, 1 Jacuzzi, 1 Kiddy Pool, 1 Sl</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Jurong West St 93</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>20</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>2EE2D43BFC6CBF7E</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Jurong West Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>12469.5954</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>35621.4276</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Jurong West Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8727665256739,
+                    1.322701538807457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Kallang Basin Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>33883.1678</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>32390.1634</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>339627</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Geylang Bahru Lane</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>21</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>2C8187B32894D19D</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Kallang Basin Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>32390.1634</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>33883.1677</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Kallang Basin Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8860818867128,
+                    1.302105641317937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Katong Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>31605.8059</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>33872.0788</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>436752</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Wilkinson Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>111</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>D641056C6DE91FF7</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Katong Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>33872.0788</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>31605.8059</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Katong Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8023886543224,
+                    1.296797579337421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Queenstown Sports &amp; Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>31018.8274</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>24557.7723</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>148948</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool, 1 Diving Pool \n\nOperating Hours: \n\n8.00a</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Stirling Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>473</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>D98B8B1480C5795F</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Queenstown Sports &amp; Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>24557.7723</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>31018.8274</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Queenstown Sports & Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8857892605435,
+                    1.395496587556361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Sengkang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>41932.5033</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>33839.2896</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>544964</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 2 Teaching Pool, 1 Fun Pool, 1 Jacuzzi, 8 Slides \n\nOperating Hours: \n\n8.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Anchorvale Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>57</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>5B3E9E8A34AEEB70</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Sengkang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>33839.2895</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>41932.5033</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Sengkang Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8745938626694,
+                    1.357038981478489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Serangoon Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>37680.0308</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>32593.4639</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>545552</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Wading Pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thursday to Tuesday</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Yio Chu Kang Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>35</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>6D75A32B9508CD57</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Serangoon Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>32593.4638</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>37680.0307</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Serangoon Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9396358050393,
+                    1.354295108944629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Tampines Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>37376.8476</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>39831.9024</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>529652</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Learner Pool, 1 Wading pool \n\nOperating Hours: \n\n8.00</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Tampines Ave 5</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>505</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>3FAF4E754B645F72</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Tampines Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>39831.9024</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>37376.8476</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Tampines Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7791183951244,
+                    1.434856094214043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Woodlands Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>46284.6853</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>21968.3415</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>738600</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching Pool, 1 Wading Pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Woodlands St. 13</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>3</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>983A867BF951252C</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Woodlands Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>21968.3415</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>46284.6853</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Woodlands Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8336923653535,
+                    1.424063322022151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Yishun Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>45091.2034</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>28041.597</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>769057</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Operating Hours:  \n\n8.00am - 9.30pm \n\nTel: 6481 9054</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Yishun Avenue 1</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>351</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>F7112183D5CA552C</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Yishun Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>28041.597</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>45091.2034</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Yishun Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.831391831712,
+                    1.40966129498569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Water-Venture (Lower Seletar Reservoir)</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>43498.7</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>27785.58</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>769140</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.water-venture.org.sg/\">http://www.water-venture.org.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Water-Venture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Yishun Avenue 1</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>100</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>3F622CBAE22E2E05</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Water-Venture (Lower Seletar Reservoir)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>27785.58</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>43498.6999</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Water-Venture (Lower Seletar Reservoir)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.930658217801,
+                    1.34245540707414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Water-Venture (Bedok Reservoir)</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>36067.63</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>38832.85</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>208581</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.water-venture.org.sg/\">http://www.water-venture.org.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Water-Venture \n\nBedok Reservoir Road \n\nc/o 9 King George's Avenue Singapore 208581 \n\nTel: 9710 1697</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>C5EAC6FE48F9953E</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Water-Venture (Bedok Reservoir)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>38832.8499</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>36067.63</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Water-Venture (Bedok Reservoir)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9898793028674,
+                    1.391056557777362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Water-Venture (Changi)</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>41442.06</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>45423.18</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>498988</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.water-venture.org.sg/\">http://www.water-venture.org.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Water-Venture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Nicoll Drive Changi Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>285</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>34235F2F5C1A69B6</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Water-Venture (Changi)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>45423.1799</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>41442.06</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Water-Venture (Changi)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.867608003726,
+                    1.303724540626645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Water-Venture (Kallang)</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>31784.78</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>31816.1</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>199587</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.water-venture.org.sg/\">http://www.water-venture.org.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Water-Venture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Beach Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>4876</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>2CBD0215E28F4E62</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Water-Venture (Kallang)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>31816.0999</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>31784.7799</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Water-Venture (Kallang)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9434461011515,
+                    1.38494697356842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Water-Venture (Pasir Ris)</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>40766.2</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>40255.79</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>519926</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.water-venture.org.sg/\">http://www.water-venture.org.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Water-Venture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Elias Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>125</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>E4B246CA9F9D626E</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Water-Venture (Pasir Ris)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>40255.79</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>40766.1999</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Water-Venture (Pasir Ris)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8431523690325,
+                    1.459134133405361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Water-Venture (Sembawang)</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>48969.16</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>29094.34</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>759057</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.water-venture.org.sg/\">http://www.water-venture.org.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Water-Venture</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Jalan Mempurong</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>57</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>00EEBDECCC897597</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Water-Venture (Sembawang)</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>29094.3399</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>48969.16</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Water-Venture (Sembawang)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8498516987718,
+                    1.363078952973613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Ang Mo Kio Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>38347.8672</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>29839.9412</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>569978</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Ang Mo Kio Ave 1</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>1771</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>CFA87360B1683F60</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Ang Mo Kio Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>29839.9412</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>38347.8672</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Ang Mo Kio Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9364552559367,
+                    1.325400490903978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Bedok Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>34181.8081</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>39478.0774</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>467355</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool, 1 Learners' pool \n\nOperating Hours: \n\n8.</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>New Upper Changi Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>901</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>AAE0BBF977B97B36</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Bedok Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>39478.0773</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>34181.8081</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Bedok Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7479542231079,
+                    1.34433159736466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Bukit Batok Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>36275.0401</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>18499.8779</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>659581</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Bukit Batok St. 22</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>2</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>DCB4AB3677AFBD69</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Bukit Batok Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>18499.8778</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>36275.0401</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Bukit Batok Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.793134174577,
+                    1.310947409346256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Buona Vista Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>32583.4576</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>23527.8552</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>278938</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Holland Drive</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>76</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>411EE4911C562F72</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Buona Vista Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>23527.8552</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>32583.4575</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Buona Vista Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7480241382663,
+                    1.390552520876511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Choa Chu Kang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>41385.9199</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>18507.8403</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>689236</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Toddler's Pool, 1 Wave Pool, 1 Interactive Pool, 1 Water slide, 1 Ri</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Choa Chu Kang St 53</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>DD91D8ADE7BA0833</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Choa Chu Kang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>18507.8403</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>41385.9199</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Choa Chu Kang Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.765826634595,
+                    1.310438770100028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Clementi Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>32527.2802</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>20488.7812</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>129908</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Clementi Ave 3</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>520</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>06C3C0E6A6E9C909</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Clementi Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>20488.7812</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>32527.2802</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Clementi Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8189699236806,
+                    1.318269807894803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Co-Curricular Activities Branch (CCAB) Sports Fac</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>33393.0995</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>26403.1349</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>259366</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching Pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thursday to Tuesda</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Evans Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>21</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>7156ABFC90D873FE</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Co-Curricular Activities Branch (CCAB) Sports Fac</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>26403.1348</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>33393.0995</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Co-Curricular Activities Branch (CCAB) Sports Fac"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8193209250125,
+                    1.289311756754979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Delta Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>30191.067</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>26442.1801</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>158790</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Tiong Bahru Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>900</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>993DFD5650B66B9A</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Delta Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>26442.1801</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>30191.0669</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Delta Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8876598162089,
+                    1.320953679431697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Geylang East Swimming Complex</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>33689.9297</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>34047.6429</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>389862</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Aljunied Crescent</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>601</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>7B5A5431B96C0AB2</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Geylang East Swimming Complex</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>34047.6429</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>33689.9297</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Geylang East Swimming Complex"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8870948252378,
+                    1.369910887228652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Hougang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>39103.3685</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>33984.6457</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>538830</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Hougang Ave 4</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>95</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>31FE34D8A8B4E8AE</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Hougang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>33984.6457</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>39103.3684</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Hougang Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8599617148221,
+                    1.310854916817285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Jalan Besar Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>32573.2101</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>30965.1294</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>207542</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching pool, 1 Wading pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Tyrwhitt Road</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>100</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>A2202F53BA6F579F</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Jalan Besar Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>30965.1294</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>32573.2101</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Jalan Besar Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.7291462107693,
+                    1.34679360312438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Jurong East Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>36547.3578</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>16406.7607</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>609517</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Wave Pool, 1 Lazy River, 3 Water Slides, 1 Jacuzzi, 1 Kiddy Fun Stat</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Jurong East Street 31</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>21</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>0A960FEBE4FFB35E</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Jurong East Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>16406.7607</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>36547.3577</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Jurong East Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.9518225058119,
+                    1.374448457670921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Pasir Ris Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>39605.3699</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>41188.0362</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>519640</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Learner Pool, 1 Wading Pool, 1 Toddlers Pool, 2 Slides, 1 Jacuzzi Po</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Pasir Ris Central</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>120</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>706331879B24522A</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Pasir Ris Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>41188.0362</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>39605.3698</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Pasir Ris Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    103.8467478850651,
+                    1.381537094524163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\n\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\n\n<td>Yio Chu Kang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\n\n<tr>\n\n<td>SHAPE</td>\n\n<td>Point</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>LANDYADDRESSPOINT</td>\n\n<td>40388.8725</td>\n\n</tr>\n\n<tr>\n\n<td>LANDXADDRESSPOINT</td>\n\n<td>29494.5119</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSPOSTALCODE</td>\n\n<td>569771</td>\n\n</tr>\n\n<tr>\n\n<td>PHOTOURL</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>HYPERLINK</td>\n\n<td><a target=\"_blank\" href=\"http://www.icanbook.com.sg/\">http://www.icanbook.com.sg/</a></td>\n\n</tr>\n\n<tr>\n\n<td>DESCRIPTION</td>\n\n<td>Facilities: \n\n1 Competition Pool, 1 Teaching Pool, 1 Wading Pool \n\nOperating Hours: \n\n8.00am - 9.30pm (Thu</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSUNITNUMBER</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSSTREETNAME</td>\n\n<td>Ang Mo Kio Ave 9</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSFLOORNUMBER</td>\n\n<td>1</td>\n\n</tr>\n\n<tr>\n\n<td>ADDRESSBUILDINGNAME</td>\n\n<td>&lt;Null&gt;</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>ADDRESSBLOCKHOUSENUMBER</td>\n\n<td>202</td>\n\n</tr>\n\n<tr>\n\n<td>INC_CRC</td>\n\n<td>63736BFA9C4BD94F</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>FMEL_UPD_D</td>\n\n<td>4/17/2014 8:55:27 AM</td>\n\n</tr>\n\n<tr>\n\n<td>NAME</td>\n\n<td>Yio Chu Kang Sports and Recreation Centre</td>\n\n</tr>\n\n<tr bgcolor=\"#D4E4F3\">\n\n<td>X_ADDR</td>\n\n<td>29494.5119</td>\n\n</tr>\n\n<tr>\n\n<td>Y_ADDR</td>\n\n<td>40388.8725</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>",
+                "name": "Yio Chu Kang Sports and Recreation Centre"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
