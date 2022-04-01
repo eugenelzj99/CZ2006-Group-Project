@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { MapContainer, ZoomControl, TileLayer, LayersControl, GeoJSON, LayerGroup } from 'react-leaflet';
+import { MapContainer, ZoomControl, TileLayer, LayersControl, GeoJSON } from 'react-leaflet';
 import "leaflet/dist/leaflet.css";
 
 import MapCurrentLocation from './MapCurrentLocation';
@@ -35,18 +35,18 @@ const ViewMap = () => {
       
       <MapCurrentLocation />
 
-      <MapLocations />
+      {/* <MapLocations /> */}
 
       <ZoomControl position='topright'/>
 
-      <LayersControl position="topright" collapsed={false}>
+      <LayersControl position="topleft" collapsed={false}>
 
-        <LayersControl.Overlay name = 'gym'>
-          <GymLocation/>
+      <LayersControl.Overlay name = 'gym'>
+          <GymLocation />
         </LayersControl.Overlay>
 
         <LayersControl.Overlay name = 'park'>
-          <ParkLocation/>
+          <ParkLocation />
         </LayersControl.Overlay>
         
       </LayersControl>
