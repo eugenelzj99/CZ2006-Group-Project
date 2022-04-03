@@ -7,21 +7,19 @@ import "leaflet/dist/leaflet.css";
 
 
 /*  START CSS FOR MARKER */
-const blackMarker = new L.icon({
-  iconUrl: "https://cdn-icons-png.flaticon.com/512/25/25613.png",
-  iconSize: [25, 25],
-  iconAnchor: [10, 41],
-  popupAnchor: [2, -40]
+var greenMarker =  L.icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [25, 34],
+  iconAnchor: [12, 34],
+  popupAnchor: [1, -34],
+  shadowSize: [34, 34]
 });
-
 /*  END CSS FOR MARKER */
-
-
 
 function MapCurrentLocation(){
   const [position, setPosition] = useState(null);
   const [bbox, setBbox] = useState([]);
-
   const map = useMap();
 
   useEffect(() => {  // will run everytime render change
@@ -35,10 +33,9 @@ function MapCurrentLocation(){
     });
   }, [map]);
 
-
   return position === null ? null : (
     <div>
-      <Marker position={position} icon={blackMarker}>
+      <Marker position={position} icon={greenMarker}>
         <Popup>
         You are here. <br />
         Map bbox: <br />
@@ -49,11 +46,7 @@ function MapCurrentLocation(){
       </Popup>
     </Marker>
     </div>
-
   );
 }
-
-    
-
 
 export default MapCurrentLocation

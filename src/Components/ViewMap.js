@@ -3,14 +3,17 @@ import { MapContainer, ZoomControl, TileLayer, LayersControl, GeoJSON } from 're
 import "leaflet/dist/leaflet.css";
 
 import MapCurrentLocation from './MapCurrentLocation';
-// import MapLocations from './MapLocations';
 import GymLocation from './GymLocation';
 import ParkLocation from './ParkLocation';
+import HealthierEateryLocation from './HealthierEateryLocation';
+import AquaticFacilityLocation from './AquaticFacilityLocation';
+import SportSGFacilityLocation from './SportSGFacilityLocation';
+// import MapLocations from './MapLocations';
+
 
 
 const ViewMap = () => {
   return (
-    <div>
       <MapContainer 
         center={[1.290270, 103.851959]} 
         zoom={50} 
@@ -40,19 +43,24 @@ const ViewMap = () => {
       <ZoomControl position='topright'/>
 
       <LayersControl position="topleft" collapsed={false}>
-
-      <LayersControl.Overlay name = 'gym'>
+        <LayersControl.Overlay name = 'Gyms'>
           <GymLocation />
         </LayersControl.Overlay>
-
-        <LayersControl.Overlay name = 'park'>
+        <LayersControl.Overlay name = 'Parks'>
           <ParkLocation />
         </LayersControl.Overlay>
-        
+        <LayersControl.Overlay name = 'Healthier Eateries'>
+          <HealthierEateryLocation />
+        </LayersControl.Overlay>
+        <LayersControl.Overlay name = 'Aquatic Facilities'>
+          <AquaticFacilityLocation />
+        </LayersControl.Overlay>
+        <LayersControl.Overlay name = 'SportSG Facilities'>
+          <SportSGFacilityLocation />
+        </LayersControl.Overlay>
       </LayersControl>
 
       </MapContainer>
-    </div>
   )
 }
 

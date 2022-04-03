@@ -6,12 +6,16 @@ import "leaflet/dist/leaflet.css";
 
 import Gyms from '../gyms-sg.json';
 
+
+
 /*  START CSS FOR MARKER */
-const blueMarker = new L.icon({
-  iconUrl: "https://unpkg.com/leaflet@1.4.0/dist/images/marker-icon.png",
-  iconSize: [15, 20],
-  iconAnchor: [10, 41],
-  popupAnchor: [2, -40]
+var blueMarker =  L.icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 26.7],
+  iconAnchor: [10, 26.7],
+  popupAnchor: [1, -34],
+  shadowSize: [26.7, 26.7]
 });
 /*  END CSS FOR MARKER */
 
