@@ -30,9 +30,9 @@ function HealthierEateryLocation(){
         },
         onEachFeature: (feature = {}, layer) => {
           const {properties = {} } = feature;
-          const {Description} = properties;
-          if (!Description) return;
-          layer.bindPopup(Description);
+          const {description} = properties;
+          if (!description) return;
+          layer.bindPopup(description);
         }
       }).addTo(map);
     },[map])
