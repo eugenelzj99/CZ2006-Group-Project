@@ -1,0 +1,86 @@
+{
+    "examples":[
+
+        {
+            "name":"Esseplore - Gourmet Online",
+            "address":"452 Race Course Rd, Singapore 218696",
+            "features":"Our talented chefs bring forth a unique experience with a plethora of different cuisines designed to excite your taste buds at the comfort of your home or at corporate meetings.",
+            "hours":"Operating hours: 24 hours"
+        },
+
+        {
+            "name":"Culture Spoon",
+            "address":"409 River Valley Rd, Singapore 248307",
+            "features":"Featuring multiple F&B pop-ups, including ex-chefs of MICHELIN-starred restaurant. Savour Asian flavours and gourmet food on a rotating menu, with artisanal bakes, specialty coffee and tea all under one roof.",
+            "hours":"Operating hours: 8am to 10pm"
+        },
+
+        {
+            "name":"Kitchen by Food Rebel",
+            "address":"28 Stanley St, Singapore 068737",
+            "features":"Eat Good. Feel Good. Be a Food Rebel.",
+            "hours":"Operating hours: 3pm to 10pm"
+        },
+
+        {
+            "name":"The Living Cafe",
+            "address":"779 Bukit Timah Rd, Singapore 269758",
+            "features":"We source high quality, organic produce where possible and combine the freshest ingredients to bring you delicious and healthy meals that we like to call food for the soul.",
+            "hours":"Operating hours: 10am to 7pm"
+        },
+
+        {
+            "name":"Grain Traders",
+            "address":"01/02/03, 138 Market St, #01 CapitaGreen, 048946",
+            "features":"We serve inspired and consciously-prepared meals, ready for enjoyment. Building engaging environments where food meets design, music and art.",
+            "hours":"Operating hours: 8am to 5pm"
+        },
+
+        
+        {
+            "name":"Shake Farm",
+            "address":"50 Robinson Rd, Singapore 068882",
+            "features":"Fresh,Healthy,Nutritious and Delicious",
+            "hours":"Operating hours: 11am to 10pm"
+        },
+
+        {
+            "name":"The Daily Cut",
+            "address":"1 Raffles Pl, #B1 - 31, Singapore 048616",
+            "features":"We're here to make healthy food uncomplicated, so you can focus on living well.",
+            "hours":"Operating hours: 11am to 9pm"
+        },
+
+        
+        {
+            "name":"Afterglow",
+            "address":"24 Keong Saik Rd., Singapore 089131",
+            "features":"We provide Pure Food Solutions that are fully Plant-Based.",
+            "hours":"Operating hours: 12am to 10pm"
+        },
+
+        {
+            "name":"Guilt-Free",
+            "address":"1 Raffles Pl, #01-03/04/05/06, Singapore 048616",
+            "features":"It is your perfect lunch retreat for the busy working crowd.",
+            "hours":"Operating hours: 10am to 5pm"
+        },
+
+        {
+            "name":"Wicked Greens",
+            "address":"154 West Coast Rd, #B1-57 Facing Taxi Stand, Singapore 127371",
+            "features":"At Wicked Greens, we aim to make every specialty bowl truly craveable and nourishing.",
+            "hours":"Operating hours: 9am to 5pm"
+        }
+
+        
+
+
+
+
+
+        
+
+        
+    ]
+}

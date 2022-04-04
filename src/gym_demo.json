@@ -1,0 +1,76 @@
+{
+    "examples":[
+
+        {
+            "name":"Fitness First",
+            "address":"3 Gateway Drive mall, #05-01 Westgate",
+            "features":"Facilities: Group Exercise Studio, Cycling Studio , Freestyle Area, Roof Top Garden and Swimming Pool",
+            "hours":"Operating hours: 8am to 10pm"
+        },
+
+        {
+            "name":"Renegade Fitness",
+            "address": " 348 Geylang Rd, Level 3, , Singapore 389369",
+            "features": "Facilities: Life Fitness Treadmills, Life Fitness Summit Trainer, Olympic Bench Press, Life Fitness Dual Adjustable Pulley/Pullup Station, Life Fitness Olympic Squat Rack and Life Fitness Arm Curl Station",
+            "hours":"Operating hours: 7am to 8pm"
+        },
+
+        {
+            "name":"Bulky Fitness",
+            "address":"3 Gateway Drive mall, #05-01 Westgate",
+            "features":"Facilities: Dumbbells, Gym Chalk, Kettlebells, Medicine Ball and Olympic barbell",
+            "hours":"Operating hours: 8am to 10pm"
+        },
+
+        {
+            "name":"The Loft Gym",
+            "address":"141 Middle Rd, #01-02, Singapore 188976",
+            "features":"Facilities: Treadmill, Stationary bicycle, Barbell Set, Rowing machine, Low-impact treadmills and Ellipticals",
+            "hours":"Operating hours: 24 hours"
+        },
+
+        {
+            "name":"Extreme Fitness Singapore",
+            "address":"1 W Coast Dr, #01-24, Singapore 128020",
+            "features":"Facilities: Gym Chalk, Kettlebells, Barbell Set, Cycling Studio , Freestyle Area and Ellipticals",
+            "hours":"Operating hours: 24 hours"
+        },
+
+        {
+            "name":"Fitness First - The Metropolis",
+            "address":"11 North Buona Vista Drive, #02-07 & #03-07, The Metropolis, Tower 2, 138589",
+            "features":"Facilities: Boxing Area, Sauna and steam room and Swimming pool",
+            "hours":"Operating hours: 6am to 10pm"
+        },
+
+        {
+            "name":"Anytime Fitness",
+            "address":"170 Upper Bukit Timah Rd, Bukit Timah Shopping Centre, Singapore 588179",
+            "features":"Facilities: Fitness Summit Trainer, Olympic Bench Press and Cycling Studio",
+            "hours":"Operating hours: 24 hours"
+        },
+
+        {
+            "name":"Gravity",
+            "address":"CapitaGreen #38-01, 138 Market St, 048946",
+            "features":"Facilities: Pool, Cycling, Steam room and Working area,",
+            "hours":"Operating hours: 6am to 10:30pm"
+        },
+
+        {
+            "name":"Platinum Fitness OUE Downtown",
+            "address":"6A Shenton Way, B1-04/05 OUE Downtown, Singapore 068815",
+            "features":"Facilities: Pool, Cycling, Steam room and Working area",
+            "hours":"Operating hours: 7am to 11pm"
+        },
+
+        {
+            "name":"Gravity",
+            "address":"CapitaGreen #38-01, 138 Market St, 048946",
+            "features":"Facilities: Gym Chalk, Kettlebells, Barbell Set Olympic Bench Press and Cycling Studio",
+            "hours":"Operating hours: 6am to 10:30pm"
+        }
+
+        
+    ]
+}

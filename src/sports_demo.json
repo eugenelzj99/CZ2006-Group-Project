@@ -1,0 +1,78 @@
+{
+    "examples":[
+
+        {
+            "name":"Bishan Sports Hall",
+            "address":"5 Bishan Street 14, Singapore 579783",
+            "features":"Facilities: 4 Badminton Courts, 9 Table-Tennis Tables and 1 Gymnastic Arena",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"Burghley Squash Centre",
+            "address":"43 Burghley Drive, Singapore 559020",
+            "features":"Facilities: Squash Court",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"Delta Hockey Pitch",
+            "address":"900 Tiong Bahru Road, Singapore 158790",
+            "features":"Facilities: Hockey pitch",
+            "hours":"Operating hours: 8am to 10pm"
+        },
+
+        {
+            "name":"Heartbeat @ Bedok ActiveSG Sports Hall",
+            "address":"11, BEDOK NORTH STREET 1, Singapore 469662",
+            "features":"Facilities: 8 Badminton Courts",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"Kallang Squash Centre",
+            "address":"8 Stadium Boulevard, Singapore 397804",
+            "features":"Facilities: Squash Courts",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"Jurong West Sport Hall",
+            "address":"20 Jurong West Street 93, Singapore 648965",
+            "features":"Facilities: Badminton Courts, Basketball Court and Pool features.",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"MOE (Evans) Hockey Pitch",
+            "address":"21 Evans Road, Singapore 259366",
+            "features":"Facilities: Hockey Pitch",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"Hougang Sports Hall",
+            "address":"93 Hougang Avenue 4, Singapore 538832",
+            "features":"Facilities: Public Sport hall ",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"Burghley Tennis Centre",
+            "address":"43 Burghley Drive, Singapore 559020",
+            "features":"Facilities: Tennis Courts",
+            "hours":"Operating hours: 7am to 10pm"
+        },
+
+        {
+            "name":"Toa Payoh Sport Centre",
+            "address":"297A Lor 6 Toa Payoh, Singapore 319389",
+            "features":"Facilities: Volleyball Court and Badminton Courts",
+            "hours":"Operating hours: 7am to 10pm"
+        }
+
+
+
+        
+    ]
+}

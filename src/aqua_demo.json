@@ -1,0 +1,94 @@
+{ 
+ "examples":[
+  { 
+     "name": "Toa Payoh Sports and Recreation Centre",
+     "address": "Address: Toa Payoh Lor. 6, Singapore 319392",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Training Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+  },
+   
+  { 
+     "name": "Bishan Sports and Recreation Centre",
+     "address": "Address: Bishan Street 4, Singapore 579778",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+  },
+  
+  { 
+     "name": "Jurong West Sports and Recreation Centre",
+     "address": "Address: Jurong West St 93, Singapore 648965",
+     "features": "Facilities: 1 Teaching Pool, 1 Sheltered Competition Pool, 1 Kiddy Pool, 1 Jacuzzi, 1 Lazy River",
+      "hours": ""
+
+
+  },
+
+  { 
+     "name": "Kallang Basin Swimming Complex",
+     "address": "Address: Geylang Bahru Lane, Singapore 339627",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+
+  },
+
+  { 
+     "name": "Katong Swimming Complex",
+     "address": "Address: Wilkinson Road, Singapore 436752",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+
+  },
+
+  { 
+     "name": "Queenstown Sports and Recreation Centre",
+     "address": "Address: Stirling Road, Singapore 148948",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Diving Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+
+  },
+
+  { 
+     "name": "Serangoon Sports and Recreation Centre",
+     "address": "Yio Chu Kang Road, Singapore 545552",
+     "features": "Facilities: 1 Wading Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+
+  },
+
+  { 
+    "name": "Woodlands Sports and Recreation Centre",
+     "address": "Woodlands St 13, Singapore 738600",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+
+  },
+
+  { 
+     "name": "Ang Mo Kio Swimming Complex",
+     "address": "Ang Mo Kio Avenue 1, Singapore 569978",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+
+  },
+
+  { 
+     "name": "Bukit Batok Swimming Complex",
+     "address": "Bukit Batok St 22, Singapore 659581",
+     "features": "Facilities: 1 Teaching Pool, 1 Wading Pool, 1 Competition Pool",
+     "hours": "Pool Operating Hours: 8.00am - 9.30pm"
+
+
+  }
+
+ ]
+
+}
+   

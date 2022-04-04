@@ -3358,3 +3358,43 @@ input, select, textarea {
 			}
 
 	}
+
+	.card {
+		display: flex;
+		width: 400px;
+		height: 620px;
+		font-size: 20px;
+		align-items: center;
+		margin-top: 100px;
+		margin-left: 50px;
+	}
+
+	.card--stats {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.cardChange{
+		margin: 5px;
+	}
+
+	.cardpic{
+		width: 100px;
+		margin: 5px;
+	}
+
+	.toprow{
+		display: grid;
+		grid-template-columns: auto auto auto;
+		column-gap: 13px;
+		margin: 10px;
+	}
+
+	.bottomrow{
+		display: grid;
+		grid-template-columns: auto auto;
+		/*column-gap: 30px;*/
+		margin-left: 230px;
+		margin-right: 180px;
+	}

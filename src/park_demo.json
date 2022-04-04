@@ -1,0 +1,88 @@
+{ 
+ "examples":[
+  { 
+     "name": "Jurong Central Park",
+     "address": "Address: Jalan Boon Lay junction with Boon Lay Way",
+     "features": "Facilities: Fitness corner or stations and fitness equipment or exercise station, Grand Lawn, Jogging path or running track, Playground, Restroom/Toilets with or without shower facilities, Event lawn"
+
+  },
+   
+  { 
+     "name": "Kallang Riverside Park",
+     "address": "Address: Kallang Road, Stadium Link and Crawford Street",
+     "features": "Facilities: Toilets, Shelters, Pergola"
+
+  },
+  
+  { 
+     "name": "Kent Ridge Park",
+     "address": "Address: Vigilante Drive off South Buona Vista Road. Access via Vigilante Drive, Science Park Drive and Pepys",
+     "features": "Facilities: Drinking fountain, Toilets, World War II Memorial Plaque, Shelters, Pond, Nature Trail, Multi purpose court or corner, Mountain bike trail, Look out points, Fitness corner, Canopy walk"
+
+
+  },
+
+  { 
+     "name": "MacRitchie Reservoir Park",
+     "address": "Address: Along Lornie Road",
+     "features": "Facilities: Drinking fountain, Toilets, Shelters, Nature Trail, Event lawn, Jogging path or running track, Fitness corner, Food and Beverage area, Benches"
+
+
+  },
+
+  { 
+     "name": "Mount Faber Park",
+     "address": "Address: Junction of Kampong Bahru Road and Telok Blangah Road",
+     "features": "Facilities: Souvenir kiosk, Shelters, Nature Trail, Look out points, Food and beverage area, Cable car station, Benches, Toilets"
+
+
+  },
+
+  { 
+     "name": "Pasir Ris Town Park",
+     "address": "Address: Along Pasir Ris Central, Opposite Pasir Ris MRT Station",
+     "features": "Facilities: Children's play equipment, Fitness corner, Foot reflexology footpath"
+ 
+
+
+  },
+
+  { 
+     "name": "Kranji Resrvoir Park",
+     "address": "Address: Along Kranji Way",
+     "features": "Facilities: Drinking fountain, Toilets, Shelters, Benches"
+     
+
+
+  },
+
+  { 
+    "name": "Punggol Park",
+     "address": "Address: Junction of Hougang Avenue 8 and 10",
+     "features": "Facilities: Barbecue pits, BYOP, Children's play equipment, Food and beverage area, Fitness corner, Jogging path, Pond, Shelters"
+     
+
+
+  },
+
+  { 
+     "name": "Punggol Waterway Park",
+     "address": "Address: Along Sentul Crescent Road",
+     "features": "Facilities: Sand play area, Fitness corner, Children's play equipment"
+     
+
+
+  },
+
+  { 
+     "name": "Singapore Botanic Gardens",
+     "address": "Address: 1 Cluny Road",
+     "features": "Facilities: Botanic Gardens"
+    
+
+
+  }
+
+ ]
+
+}
