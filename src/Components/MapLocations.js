@@ -11,32 +11,40 @@ import AquaticFacilities from '../aquaticSG.json';
 import Parks from '../ParksSG.json';
 
 /*  START CSS FOR MARKER */
-const blueMarker = new L.icon({
-  iconUrl: "https://unpkg.com/leaflet@1.4.0/dist/images/marker-icon.png",
-  iconSize: [15, 20],
-  iconAnchor: [10, 41],
-  popupAnchor: [2, -40]
+var yellowMarker =  L.icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-yellow.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 26.7],
+  iconAnchor: [10, 26.7],
+  popupAnchor: [1, -34],
+  shadowSize: [26.7, 26.7]
 });
 
-const redMarker = new L.icon({
-  iconUrl: "https://cdn-icons-png.flaticon.com/512/2288/2288553.png",
-  iconSize: [25, 25],
-  iconAnchor: [10, 41],
-  popupAnchor: [2, -40]
+const orangeMarker = L.icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-orange.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 26.7],
+  iconAnchor: [10, 26.7],
+  popupAnchor: [1, -34],
+  shadowSize: [26.7, 26.7]
 });
 
-const blackMarker = new L.icon({
-  iconUrl: "https://cdn-icons-png.flaticon.com/512/25/25613.png",
-  iconSize: [25, 25],
-  iconAnchor: [10, 41],
-  popupAnchor: [2, -40]
+var redMarker =  L.icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 26.7],
+  iconAnchor: [10, 26.7],
+  popupAnchor: [1, -34],
+  shadowSize: [26.7, 26.7]
 });
 
-const orangeMarker = new L.icon({
-  iconUrl: "http://www.clker.com/cliparts/g/9/4/c/Y/0/orange-map-pin.svg.hi.png",
-  iconSize: [15, 20],
-  iconAnchor: [10, 41],
-  popupAnchor: [2, -40]
+var violetMarker =  L.icon({
+  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png',
+  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+  iconSize: [20, 26.7],
+  iconAnchor: [10, 26.7],
+  popupAnchor: [1, -34],
+  shadowSize: [26.7, 26.7]
 });
 /*  END CSS FOR MARKER */
 
@@ -47,7 +55,7 @@ function MapLocations(){
     
     L.geoJSON(Gyms, {
       pointToLayer: (feature, latlng) => {
-        return L.marker(latlng, { icon: blueMarker });
+        return L.marker(latlng, { icon: yellowMarker });
       },
       onEachFeature: (feature = {}, layer) => {
         const {properties = {} } = feature;
@@ -92,7 +100,7 @@ function MapLocations(){
 
     L.geoJSON(AquaticFacilities, {
       pointToLayer: (feature, latlng) => {
-        return L.marker(latlng, { icon: blackMarker });
+        return L.marker(latlng, { icon: violetMarker });
       },
       onEachFeature: (feature = {}, layer) => {
         const {properties = {} } = feature;
@@ -105,101 +113,8 @@ function MapLocations(){
 
   return(
     <div>
-      <GeoJSON data={Gyms} />
-      <GeoJSON data={HealthierEateries} />
-      <GeoJSON data={SportSGFacilities} />
-      <GeoJSON data={AquaticFacilities} />
-      <GeoJSON data={Parks} />
     </div>
   )
 }
 
 export default MapLocations;
-
-/*
-export default class ViewMap extends React.Component {
-  componentDidMount() {
-    
-
-    L.geoJSON(Gyms, {
-      pointToLayer: (feature, latlng) => {
-        return L.marker(latlng, { icon: blueMarker });
-      },
-      onEachFeature: (feature = {}, layer) => {
-        const {properties = {} } = feature;
-        const {Description} = properties;
-        if (!Description) return;
-        layer.bindPopup(Description);
-      }
-    }).addTo(map);
-
-    L.geoJSON(HealthierEateries, {
-      pointToLayer: (feature, latlng) => {
-        return L.marker(latlng, { icon: redMarker });
-      },
-      onEachFeature: (feature = {}, layer) => {
-        const {properties = {} } = feature;
-        const {description} = properties;
-        if (!description) return;
-        layer.bindPopup(description);
-      }
-    }).addTo(map);
-
-    L.geoJSON(SportSGFacilities, {
-      onEachFeature: (feature = {}, layer) => {
-        const {properties = {} } = feature;
-        const {Description} = properties;
-        if (!Description) return;
-        layer.bindPopup(Description);
-      }
-    }).addTo(map);
-
-    L.geoJSON(AquaticFacilities, {
-      pointToLayer: (feature, latlng) => {
-        return L.marker(latlng, { icon: blackMarker });
-      },
-      onEachFeature: (feature = {}, layer) => {
-        const {properties = {} } = feature;
-        const {description} = properties;
-        if (!description) return;
-        layer.bindPopup(description);
-      }
-    }).addTo(map);
-
-    L.geoJSON(Parks, {
-      pointToLayer: (feature, latlng) => {
-        return L.marker(latlng, { icon: orangeMarker });
-      },
-      onEachFeature: (feature = {}, layer) => {
-        const {properties = {} } = feature;
-        const {description} = properties;
-        if (!description) return;
-        layer.bindPopup(description);
-      }
-    }).addTo(map);
-    
-  }
-
-  render() {
-    
-    return [  <MapContainer
-      center={[1.390270, 103.851959]}
-      zoom={11}
-      scrollWheelZoom
-      style={{ height: "50vh" }}
-    >
-      <TileLayer
-        attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
-      <LocationMarker />
-    </MapContainer>, 
-    
-
-    <div id="map" style={{ height: "50vh" }} />
-  ];
-  }
-  
-
-}
-*/
