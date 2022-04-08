@@ -59,7 +59,7 @@ class Example extends Component {
                 <Nav.Link href="/Home"><h7 className="linkText">Home</h7></Nav.Link>
                 <Nav.Link href="/Discover"><h7 className="linkText">Discover</h7></Nav.Link>
                 <Nav.Link href="/ViewMap" ><h7 className="linkText">View Map</h7></Nav.Link>
-                <Nav.Link href="/Planner"><h7 className="linkText">Planner</h7></Nav.Link>
+               {/* <Nav.Link href="/Planner"><h7 className="linkText">Planner</h7></Nav.Link> */ }
               </Nav>
               <Nav className="ml-auto" navbar>
                 <NavItem>
@@ -100,7 +100,7 @@ class Example extends Component {
         
           <Route exact path="/ViewMap" component={ViewMap} />
 
-          <Route exact path="/Planner" component={Planning} />
+          {/*<Route exact path="/Planner" component={Planning} /> */}
           </Switch>
         </Router>
       </div>
